@@ -1,5 +1,5 @@
 ### Q1 What is the purpose of a breakpoint?
-A breakpoint tells the debugger where to pause when running to code. It will run the lines of code before the breakpoint.
+A breakpoint tells the debugger where to pause when running to code. It will run the lines of code before the breakpoint. This is useful when looking into how a program is running at that point in the script.
 
 ### Q2 Does the line of code on a breakpoint run when you start debugging
 No it does not. It runs the code before the breakpoint.
