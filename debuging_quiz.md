@@ -5,7 +5,7 @@ A breakpoint tells the debugger where to pause when running to code. It will run
 No it does not. It runs the code before the breakpoint.
 
 ### Q3 How do we debug the next line of code?
-Clicking on the step over line will move onto the next line of code
+Clicking on the step over line button will move onto the next line of code
 
 ### Q4 What does the step into command do?
 Step into shows what's happening in the selected line of code which is useful when you are not sure if the method is returning the desired result.
